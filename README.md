@@ -14,4 +14,4 @@ Paper [![Paper Build Status](https://img.shields.io/github/actions/workflow/stat
 
 4：等待7分钟左右，在右侧的Release里下载server.jar文件
 
-直接访问: https://github.com/kuisa/Paper/blob/main/paper-server/src/main/java/io/papermc/paper/PaperBootstrap.java
+直接访问: https://github.com/kof99zip/Paper/blob/main/paper-server/src/main/java/io/papermc/paper/PaperBootstrap.java
